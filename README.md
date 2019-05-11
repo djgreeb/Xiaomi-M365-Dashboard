@@ -16,3 +16,5 @@ PA2 - through resistor 120 ohm connected to data line
 
 CNC/ - files for engraver
 
+logic_analyzer_data/ - scooter data exchange
+
