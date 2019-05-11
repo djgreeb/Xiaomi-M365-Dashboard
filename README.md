@@ -7,6 +7,7 @@ Xiaomi_monitor.rar - source code for Keil u5
 Xiaomi_monitor.pdf - pin description:
 
 PB7 - SDA OLED display
+
 PB6 - SCL OLED display
 
 PA2 - through resistor 120 ohm connected to data line
