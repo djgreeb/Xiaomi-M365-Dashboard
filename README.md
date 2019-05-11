@@ -14,3 +14,5 @@ PB6 - SCL OLED display
 
 PA2 - through resistor 120 ohm connected to data line
 
+CNC/ - files for engraver
+
