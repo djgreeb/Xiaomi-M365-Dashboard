@@ -1,3 +1,4 @@
+# Xiaomi M365 display slim dashboard
 
 Xiaomi M365 display slim dashboard based on STM32F103C8T6 board and OLED display 0.96" 128x64px
 
